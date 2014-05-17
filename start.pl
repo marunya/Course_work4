@@ -1,4 +1,4 @@
-use Mojo::Base -base;
+﻿use Mojo::Base -base;
 use Mojo;
 use Term::ANSIColor;
 

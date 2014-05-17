@@ -1,4 +1,4 @@
-package WEB;
+﻿package WEB;
 
 use Mojo::Base -strict;
 use Mojo;
